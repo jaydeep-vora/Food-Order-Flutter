@@ -1,6 +1,6 @@
 # Food on demad app (Flutter + GetX)
 
-This is demo project to demonstate the best UX in flutter and GetX tool for Navigation, State Management.
+This one is demo project to demonstate the UX implementation in flutter and GetX tool for Navigation, State Management. The design curtesy goes to [Food Delivery App](https://www.behance.net/gallery/104723621/Food-Delivery-Mobile-App-UIUX-Design) team. It has awesome UX Designs portfolio, But this demo only includes some level of designs only.
 
 ## Getting Started
 
