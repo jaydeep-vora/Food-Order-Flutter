@@ -1,6 +1,6 @@
-# flutter_animation
+# Food on demad app (Flutter + GetX)
 
-A new Flutter project.
+This is demo project to demonstate the best UX in flutter and GetX tool for Navigation, State Management.
 
 ## Getting Started
 
